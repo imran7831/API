@@ -1,0 +1,19 @@
+body {
+  font-family: Arial;
+}
+
+.grid {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 20px;
+}
+
+.card {
+  border: 1px solid #ddd;
+  padding: 15px;
+  width: 200px;
+}
+
+.loader {
+  font-size: 20px;
+}
